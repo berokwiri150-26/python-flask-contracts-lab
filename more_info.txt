@@ -1,0 +1,6 @@
+You must use the specific routing to see the results in a webpage. 
+For example, if it is customers, you must route '/customer/bob' - and if it is contracts, you must state '/contracts/1'
+Otherwise, it'll return a 404 not found error. 
+Enjoy the site!
+
+By Bernd Oyondi, respectfully, ofcourse.
